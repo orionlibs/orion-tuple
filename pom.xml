@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-tuple</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Tuple</name>
     <description>Java tuples like pairs, triples, N-tuples, etc. </description>
     <url>https://github.com/orionlibs/orion-tuple</url>
@@ -229,7 +229,7 @@
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-stream</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
     </dependencies>
 </project>
